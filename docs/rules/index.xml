@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UHC Rules | TNTable UHC</title>
+    <link>https://tntable.github.io/docs/rules/</link>
+      <atom:link href="https://tntable.github.io/docs/rules/index.xml" rel="self" type="application/rss+xml" />
+    <description>UHC Rules</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 23:52:27 -0400</lastBuildDate>
+    <image>
+      <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>UHC Rules</title>
+      <link>https://tntable.github.io/docs/rules/</link>
+    </image>
+    
+  </channel>
+</rss>

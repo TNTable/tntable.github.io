@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Player Guide | TNTable UHC</title>
+    <link>https://tntable.github.io/docs/guide/</link>
+      <atom:link href="https://tntable.github.io/docs/guide/index.xml" rel="self" type="application/rss+xml" />
+    <description>Player Guide</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 23:53:15 -0400</lastBuildDate>
+    <image>
+      <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Player Guide</title>
+      <link>https://tntable.github.io/docs/guide/</link>
+    </image>
+    
+    <item>
+      <title>Slow Games</title>
+      <link>https://tntable.github.io/docs/guide/slow/</link>
+      <pubDate>Sun, 19 Jul 2020 23:53:40 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/guide/slow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Games</title>
+      <link>https://tntable.github.io/docs/guide/fast/</link>
+      <pubDate>Sun, 19 Jul 2020 23:53:36 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/guide/fast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
