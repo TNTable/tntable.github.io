@@ -3,39 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://tntable.github.io/authors/</loc>
+    <lastmod>2020-07-19T23:10:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://tntable.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://tntable.github.io/author/nelson-bighetti/</loc>
+    <lastmod>2020-07-19T23:10:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>https://tntable.github.io/post/</loc>
+    <lastmod>2020-07-19T23:10:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://tntable.github.io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://tntable.github.io/publication/</loc>
+    <lastmod>2020-07-19T23:10:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://tntable.github.io/talk/</loc>
+    <lastmod>2020-07-19T23:10:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://tntable.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://tntable.github.io/</loc>
+    <lastmod>2020-07-19T23:10:54-04:00</lastmod>
   </url>
   
 </urlset>
