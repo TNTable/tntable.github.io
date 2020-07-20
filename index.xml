@@ -5,12 +5,69 @@
     <link>https://tntable.github.io/</link>
       <atom:link href="https://tntable.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>TNTable UHC</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 23:56:44 -0400</lastBuildDate>
     <image>
       <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>TNTable UHC</title>
       <link>https://tntable.github.io/</link>
     </image>
+    
+    <item>
+      <title>Slow Games</title>
+      <link>https://tntable.github.io/docs/guide/slow/</link>
+      <pubDate>Sun, 19 Jul 2020 23:53:40 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/guide/slow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Games</title>
+      <link>https://tntable.github.io/docs/guide/fast/</link>
+      <pubDate>Sun, 19 Jul 2020 23:53:36 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/guide/fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Thanks</title>
+      <link>https://tntable.github.io/docs/overview/thanks/</link>
+      <pubDate>Sun, 19 Jul 2020 23:47:53 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/overview/thanks/</guid>
+      <description>&lt;p&gt;This datapack would not have been possible without the help of many people. I have listed as many as I can below.&lt;/p&gt;
+&lt;h2 id=&#34;development&#34;&gt;Development&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Angus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;building&#34;&gt;Building&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Matt&lt;/li&gt;
+&lt;li&gt;Michael&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;testing&#34;&gt;Testing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Aden&lt;/li&gt;
+&lt;li&gt;Angus&lt;/li&gt;
+&lt;li&gt;Jack&lt;/li&gt;
+&lt;li&gt;Jarego&lt;/li&gt;
+&lt;li&gt;Jarrad&lt;/li&gt;
+&lt;li&gt;Matt&lt;/li&gt;
+&lt;li&gt;Michael&lt;/li&gt;
+&lt;li&gt;Mitch&lt;/li&gt;
+&lt;li&gt;Nick&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://tntable.github.io/docs/overview/intro/</link>
+      <pubDate>Sun, 19 Jul 2020 23:45:33 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/overview/intro/</guid>
+      <description>&lt;p&gt;Test
+test&lt;/p&gt;
+&lt;p&gt;test&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

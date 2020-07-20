@@ -3,8 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tntable.github.io/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/troubleshooting/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/faq/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/guide/slow/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/guide/fast/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/guide/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/rules/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/overview/thanks/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/overview/intro/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/overview/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/author/angus-macgillivary/</loc>
+    <lastmod>2020-07-19T23:42:05-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tntable.github.io/authors/</loc>
-    <lastmod>2020-07-19T23:10:54-04:00</lastmod>
+    <lastmod>2020-07-19T23:42:05-04:00</lastmod>
   </url>
   
   <url>
@@ -12,8 +67,13 @@
   </url>
   
   <url>
-    <loc>https://tntable.github.io/author/nelson-bighetti/</loc>
-    <lastmod>2020-07-19T23:10:54-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/</loc>
+    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/author/david-mallette/</loc>
+    <lastmod>2020-07-19T23:42:05-04:00</lastmod>
   </url>
   
   <url>
@@ -37,11 +97,6 @@
   
   <url>
     <loc>https://tntable.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tntable.github.io/</loc>
-    <lastmod>2020-07-19T23:10:54-04:00</lastmod>
   </url>
   
 </urlset>
