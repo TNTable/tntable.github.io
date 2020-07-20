@@ -5,7 +5,7 @@
     <link>https://tntable.github.io/</link>
       <atom:link href="https://tntable.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>TNTable UHC</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 23:56:44 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 20 Jul 2020 10:15:49 -0400</lastBuildDate>
     <image>
       <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>TNTable UHC</title>
@@ -13,26 +13,67 @@
     </image>
     
     <item>
-      <title>Slow Games</title>
-      <link>https://tntable.github.io/docs/guide/slow/</link>
-      <pubDate>Sun, 19 Jul 2020 23:53:40 -0400</pubDate>
-      <guid>https://tntable.github.io/docs/guide/slow/</guid>
+      <title>Technical Usage</title>
+      <link>https://tntable.github.io/docs/datapack/usage/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:30 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/usage/</guid>
+      <description>&lt;p&gt;Technical Usage Instructions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quick Install Guide</title>
+      <link>https://tntable.github.io/docs/getting-started/quick-install/</link>
+      <pubDate>Mon, 20 Jul 2020 10:00:04 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/getting-started/quick-install/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quick Games</title>
-      <link>https://tntable.github.io/docs/guide/fast/</link>
-      <pubDate>Sun, 19 Jul 2020 23:53:36 -0400</pubDate>
-      <guid>https://tntable.github.io/docs/guide/fast/</guid>
+      <title>Lobby</title>
+      <link>https://tntable.github.io/docs/datapack/lobby/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:42 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/lobby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regular</title>
+      <link>https://tntable.github.io/docs/game-modes/regular/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:36 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/regular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requirements</title>
+      <link>https://tntable.github.io/docs/getting-started/requirements/</link>
+      <pubDate>Mon, 20 Jul 2020 10:01:08 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/getting-started/requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UHC</title>
+      <link>https://tntable.github.io/docs/datapack/uhc/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:51 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/uhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow</title>
+      <link>https://tntable.github.io/docs/game-modes/slow/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:40 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/slow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Special Thanks</title>
-      <link>https://tntable.github.io/docs/overview/thanks/</link>
+      <link>https://tntable.github.io/docs/thanks/</link>
       <pubDate>Sun, 19 Jul 2020 23:47:53 -0400</pubDate>
-      <guid>https://tntable.github.io/docs/overview/thanks/</guid>
+      <guid>https://tntable.github.io/docs/thanks/</guid>
       <description>&lt;p&gt;This datapack would not have been possible without the help of many people. I have listed as many as I can below.&lt;/p&gt;
 &lt;h2 id=&#34;development&#34;&gt;Development&lt;/h2&gt;
 &lt;ul&gt;
@@ -59,13 +100,152 @@
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://tntable.github.io/docs/overview/intro/</link>
-      <pubDate>Sun, 19 Jul 2020 23:45:33 -0400</pubDate>
-      <guid>https://tntable.github.io/docs/overview/intro/</guid>
-      <description>&lt;p&gt;Test
-test&lt;/p&gt;
-&lt;p&gt;test&lt;/p&gt;
+      <title>Installation</title>
+      <link>https://tntable.github.io/docs/getting-started/installation/</link>
+      <pubDate>Mon, 20 Jul 2020 10:03:49 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/getting-started/installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UHC Rules</title>
+      <link>https://tntable.github.io/docs/uhc-rules/</link>
+      <pubDate>Mon, 20 Jul 2020 09:58:05 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/uhc-rules/</guid>
+      <description>&lt;h2 id=&#34;uhc-requirements&#34;&gt;UHC Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Health does not regen naturally&lt;/li&gt;
+&lt;li&gt;Hardcore&lt;/li&gt;
+&lt;li&gt;Players start spread out around the map&lt;/li&gt;
+&lt;li&gt;Border to prevent players from going too far away&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pack-specific-rules&#34;&gt;Pack-Specific Rules&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Regeneration is granted for 5 minutes after starting&lt;/li&gt;
+&lt;li&gt;The border sizing information can be found in the chat log&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advancements&#34;&gt;Advancements&lt;/h2&gt;
+&lt;h2 id=&#34;death&#34;&gt;Death&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drops &amp; Sponsors</title>
+      <link>https://tntable.github.io/docs/datapack/drops-sponsors/</link>
+      <pubDate>Mon, 20 Jul 2020 09:35:06 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/drops-sponsors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast</title>
+      <link>https://tntable.github.io/docs/game-modes/fast/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:46 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Start Guide</title>
+      <link>https://tntable.github.io/docs/getting-started/quick-start/</link>
+      <pubDate>Mon, 20 Jul 2020 10:03:58 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/getting-started/quick-start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End of Game</title>
+      <link>https://tntable.github.io/docs/datapack/end-of-game/</link>
+      <pubDate>Mon, 20 Jul 2020 09:35:12 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/end-of-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous</title>
+      <link>https://tntable.github.io/docs/game-modes/continuous/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:52 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/continuous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full Guide</title>
+      <link>https://tntable.github.io/docs/getting-started/full-guide/</link>
+      <pubDate>Mon, 20 Jul 2020 10:05:00 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/getting-started/full-guide/</guid>
+      <description>&lt;h2 id=&#34;starting-games&#34;&gt;Starting Games&lt;/h2&gt;
+&lt;h2 id=&#34;lobby&#34;&gt;Lobby&lt;/h2&gt;
+&lt;h2 id=&#34;drops--sponsorships&#34;&gt;Drops &amp;amp; Sponsorships&lt;/h2&gt;
+&lt;h2 id=&#34;resetting-a-game&#34;&gt;Resetting a Game&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intense</title>
+      <link>https://tntable.github.io/docs/game-modes/intense/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:57 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/intense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Games</title>
+      <link>https://tntable.github.io/docs/guide/fast/</link>
+      <pubDate>Sun, 19 Jul 2020 23:53:36 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/guide/fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Shrinking</title>
+      <link>https://tntable.github.io/docs/game-modes/non-shrinking/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:05 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/non-shrinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow Games</title>
+      <link>https://tntable.github.io/docs/guide/slow/</link>
+      <pubDate>Sun, 19 Jul 2020 23:53:40 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/guide/slow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upgrading</title>
+      <link>https://tntable.github.io/docs/datapack/upgrading/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:34 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/upgrading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://tntable.github.io/docs/faq/</link>
+      <pubDate>Mon, 20 Jul 2020 09:55:43 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/faq/</guid>
+      <description>&lt;p&gt;Tset faq&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://tntable.github.io/docs/troubleshooting/</link>
+      <pubDate>Mon, 20 Jul 2020 09:56:03 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/troubleshooting/</guid>
+      <description>&lt;h2 id=&#34;test&#34;&gt;Test&lt;/h2&gt;
+&lt;p&gt;Submit an issue ticket on Github. Read through the FAQ and this document first though.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datapack Testing</title>
+      <link>https://tntable.github.io/talk/event/testing/</link>
+      <pubDate>Fri, 01 Feb 2019 10:45:01 -0400</pubDate>
+      <guid>https://tntable.github.io/talk/event/testing/</guid>
+      <description>&lt;p&gt;The datapack is not yet finished, and as such requires play testing. This is an ongoing process. Once the pack is releases there will be season events scehduled for thte TNTable community members.&lt;/p&gt;
 </description>
     </item>
     

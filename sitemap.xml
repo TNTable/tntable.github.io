@@ -3,53 +3,153 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tntable.github.io/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/datapack/usage/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tntable.github.io/docs/troubleshooting/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/getting-started/quick-install/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tntable.github.io/docs/faq/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/datapack/lobby/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tntable.github.io/docs/guide/slow/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/game-modes/regular/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tntable.github.io/docs/guide/fast/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/getting-started/requirements/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/datapack/uhc/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/game-modes/slow/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/thanks/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/getting-started/installation/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/uhc-rules/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/datapack/drops-sponsors/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/game-modes/fast/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/getting-started/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/getting-started/quick-start/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/datapack/end-of-game/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/game-modes/continuous/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://tntable.github.io/docs/guide/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tntable.github.io/docs/rules/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/getting-started/full-guide/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tntable.github.io/docs/overview/thanks/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/game-modes/intense/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tntable.github.io/docs/overview/intro/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/game-modes/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tntable.github.io/docs/overview/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
+    <loc>https://tntable.github.io/docs/guide/fast/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/datapack/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/game-modes/non-shrinking/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/guide/slow/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/datapack/upgrading/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/faq/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/docs/troubleshooting/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/talk/event/testing/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
   <url>
@@ -64,11 +164,6 @@
   
   <url>
     <loc>https://tntable.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tntable.github.io/docs/</loc>
-    <lastmod>2020-07-19T23:57:27-04:00</lastmod>
   </url>
   
   <url>
@@ -97,6 +192,11 @@
   
   <url>
     <loc>https://tntable.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tntable.github.io/talk/event/</loc>
+    <lastmod>2020-07-20T10:54:49-04:00</lastmod>
   </url>
   
 </urlset>
