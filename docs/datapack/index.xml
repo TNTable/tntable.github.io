@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datapack | TNTable UHC</title>
+    <link>https://tntable.github.io/docs/datapack/</link>
+      <atom:link href="https://tntable.github.io/docs/datapack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Datapack</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 20 Jul 2020 09:34:26 -0400</lastBuildDate>
+    <image>
+      <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Datapack</title>
+      <link>https://tntable.github.io/docs/datapack/</link>
+    </image>
+    
+    <item>
+      <title>Technical Usage</title>
+      <link>https://tntable.github.io/docs/datapack/usage/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:30 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/usage/</guid>
+      <description>&lt;p&gt;Technical Usage Instructions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lobby</title>
+      <link>https://tntable.github.io/docs/datapack/lobby/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:42 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/lobby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UHC</title>
+      <link>https://tntable.github.io/docs/datapack/uhc/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:51 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/uhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drops &amp; Sponsors</title>
+      <link>https://tntable.github.io/docs/datapack/drops-sponsors/</link>
+      <pubDate>Mon, 20 Jul 2020 09:35:06 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/drops-sponsors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End of Game</title>
+      <link>https://tntable.github.io/docs/datapack/end-of-game/</link>
+      <pubDate>Mon, 20 Jul 2020 09:35:12 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/end-of-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upgrading</title>
+      <link>https://tntable.github.io/docs/datapack/upgrading/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:34 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/datapack/upgrading/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

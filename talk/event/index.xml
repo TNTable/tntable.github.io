@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TNTable Events | TNTable UHC</title>
+    <link>https://tntable.github.io/talk/event/</link>
+      <atom:link href="https://tntable.github.io/talk/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>TNTable Events</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright>
+    <image>
+      <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>TNTable Events</title>
+      <link>https://tntable.github.io/talk/event/</link>
+    </image>
+    
+    <item>
+      <title>Datapack Testing</title>
+      <link>https://tntable.github.io/talk/event/testing/</link>
+      <pubDate>Fri, 01 Feb 2019 10:45:01 -0400</pubDate>
+      <guid>https://tntable.github.io/talk/event/testing/</guid>
+      <description>&lt;p&gt;The datapack is not yet finished, and as such requires play testing. This is an ongoing process. Once the pack is releases there will be season events scehduled for thte TNTable community members.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

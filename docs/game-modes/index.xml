@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Modes | TNTable UHC</title>
+    <link>https://tntable.github.io/docs/game-modes/</link>
+      <atom:link href="https://tntable.github.io/docs/game-modes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Game Modes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 20 Jul 2020 09:33:28 -0400</lastBuildDate>
+    <image>
+      <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Game Modes</title>
+      <link>https://tntable.github.io/docs/game-modes/</link>
+    </image>
+    
+    <item>
+      <title>Regular</title>
+      <link>https://tntable.github.io/docs/game-modes/regular/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:36 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/regular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow</title>
+      <link>https://tntable.github.io/docs/game-modes/slow/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:40 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/slow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast</title>
+      <link>https://tntable.github.io/docs/game-modes/fast/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:46 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous</title>
+      <link>https://tntable.github.io/docs/game-modes/continuous/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:52 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/continuous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intense</title>
+      <link>https://tntable.github.io/docs/game-modes/intense/</link>
+      <pubDate>Mon, 20 Jul 2020 09:33:57 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/intense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Shrinking</title>
+      <link>https://tntable.github.io/docs/game-modes/non-shrinking/</link>
+      <pubDate>Mon, 20 Jul 2020 09:34:05 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/game-modes/non-shrinking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
