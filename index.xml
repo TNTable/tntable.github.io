@@ -5,12 +5,36 @@
     <link>https://tntable.github.io/</link>
       <atom:link href="https://tntable.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>TNTable UHC</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 03 Aug 2020 16:00:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 03 Aug 2020 16:21:30 -0400</lastBuildDate>
     <image>
       <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>TNTable UHC</title>
       <link>https://tntable.github.io/</link>
     </image>
+    
+    <item>
+      <title>Version 0.3.0 (WIP)</title>
+      <link>https://tntable.github.io/docs/roadmap/version-0-3-0/</link>
+      <pubDate>Mon, 03 Aug 2020 16:18:12 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/roadmap/version-0-3-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 0.2.0</title>
+      <link>https://tntable.github.io/docs/roadmap/version-0-2-0/</link>
+      <pubDate>Mon, 03 Aug 2020 16:21:30 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/roadmap/version-0-2-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 0.1.0</title>
+      <link>https://tntable.github.io/docs/roadmap/version-0-1-0/</link>
+      <pubDate>Mon, 03 Aug 2020 16:19:47 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/roadmap/version-0-1-0/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Technical Usage</title>
@@ -186,6 +210,26 @@
       <pubDate>Mon, 03 Aug 2020 15:48:09 -0400</pubDate>
       <guid>https://tntable.github.io/docs/game-modes/non-shrinking/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Version 0.0.0</title>
+      <link>https://tntable.github.io/docs/roadmap/version-0/</link>
+      <pubDate>Mon, 03 Aug 2020 16:16:47 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/roadmap/version-0/</guid>
+      <description>&lt;h2 id=&#34;version-004&#34;&gt;Version 0.0.4&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; Undocumented&lt;/p&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Initial Gameplay Mechanics&lt;/li&gt;
+&lt;li&gt;Installation Script&lt;/li&gt;
+&lt;li&gt;Game starting script&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bug-fixes&#34;&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Just created a whole bunch with this release.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
