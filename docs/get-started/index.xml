@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started | TNTable UHC</title>
+    <link>https://tntable.github.io/docs/get-started/</link>
+      <atom:link href="https://tntable.github.io/docs/get-started/index.xml" rel="self" type="application/rss+xml" />
+    <description>Getting Started</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 03 Aug 2020 15:38:17 -0400</lastBuildDate>
+    <image>
+      <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Getting Started</title>
+      <link>https://tntable.github.io/docs/get-started/</link>
+    </image>
+    
+    <item>
+      <title>Full Guide</title>
+      <link>https://tntable.github.io/docs/get-started/full-guide/</link>
+      <pubDate>Mon, 03 Aug 2020 15:44:14 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/get-started/full-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Start Guide</title>
+      <link>https://tntable.github.io/docs/get-started/quick-start/</link>
+      <pubDate>Mon, 03 Aug 2020 15:43:48 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/get-started/quick-start/</guid>
+      <description>&lt;p&gt;Get started quickly with the TNTable UHC Datapack. This gives you the information you need to setup and start playing fast. For more details on the installation please see the installation guide, and for more details on the datapack and options, see the full guide.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Requirements</title>
+      <link>https://tntable.github.io/docs/get-started/requirements/</link>
+      <pubDate>Mon, 03 Aug 2020 15:42:26 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/get-started/requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://tntable.github.io/docs/get-started/installation/</link>
+      <pubDate>Mon, 03 Aug 2020 15:42:46 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/get-started/installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upgrade</title>
+      <link>https://tntable.github.io/docs/get-started/upgrading/</link>
+      <pubDate>Mon, 03 Aug 2020 15:53:32 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/get-started/upgrading/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

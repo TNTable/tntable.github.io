@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gameplay | TNTable UHC</title>
+    <link>https://tntable.github.io/docs/gameplay/</link>
+      <atom:link href="https://tntable.github.io/docs/gameplay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gameplay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 03 Aug 2020 15:30:30 -0400</lastBuildDate>
+    <image>
+      <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Gameplay</title>
+      <link>https://tntable.github.io/docs/gameplay/</link>
+    </image>
+    
+    <item>
+      <title>Rules</title>
+      <link>https://tntable.github.io/docs/gameplay/rules/</link>
+      <pubDate>Mon, 03 Aug 2020 15:31:48 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/gameplay/rules/</guid>
+      <description>&lt;h2 id=&#34;uhc-requirements&#34;&gt;UHC Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Health does not regen naturally&lt;/li&gt;
+&lt;li&gt;Hardcore&lt;/li&gt;
+&lt;li&gt;Players start spread out around the map&lt;/li&gt;
+&lt;li&gt;Border to prevent players from going too far away&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pack-specific-rules&#34;&gt;Pack-Specific Rules&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Regeneration is granted for 5 minutes after starting&lt;/li&gt;
+&lt;li&gt;The border sizing information can be found in the chat log&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advancements&#34;&gt;Advancements&lt;/h2&gt;
+&lt;h2 id=&#34;death&#34;&gt;Death&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quick Games</title>
+      <link>https://tntable.github.io/docs/gameplay/fast/</link>
+      <pubDate>Mon, 03 Aug 2020 15:36:32 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/gameplay/fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow Game</title>
+      <link>https://tntable.github.io/docs/gameplay/slow/</link>
+      <pubDate>Mon, 03 Aug 2020 15:36:37 -0400</pubDate>
+      <guid>https://tntable.github.io/docs/gameplay/slow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
