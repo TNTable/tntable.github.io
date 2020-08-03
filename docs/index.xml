@@ -1,87 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview | TNTable UHC</title>
+    <title>Introduction | TNTable UHC</title>
     <link>https://tntable.github.io/docs/</link>
       <atom:link href="https://tntable.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
-    <description>Overview</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 20 Jul 2020 09:25:25 -0400</lastBuildDate>
+    <description>Introduction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Overview</title>
+      <title>Introduction</title>
       <link>https://tntable.github.io/docs/</link>
     </image>
-    
-    <item>
-      <title>Special Thanks</title>
-      <link>https://tntable.github.io/docs/thanks/</link>
-      <pubDate>Sun, 19 Jul 2020 23:47:53 -0400</pubDate>
-      <guid>https://tntable.github.io/docs/thanks/</guid>
-      <description>&lt;p&gt;This datapack would not have been possible without the help of many people. I have listed as many as I can below.&lt;/p&gt;
-&lt;h2 id=&#34;development&#34;&gt;Development&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Angus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;building&#34;&gt;Building&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Matt&lt;/li&gt;
-&lt;li&gt;Michael&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;testing&#34;&gt;Testing&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Aden&lt;/li&gt;
-&lt;li&gt;Angus&lt;/li&gt;
-&lt;li&gt;Jack&lt;/li&gt;
-&lt;li&gt;Jarego&lt;/li&gt;
-&lt;li&gt;Jarrad&lt;/li&gt;
-&lt;li&gt;Matt&lt;/li&gt;
-&lt;li&gt;Michael&lt;/li&gt;
-&lt;li&gt;Mitch&lt;/li&gt;
-&lt;li&gt;Nick&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>UHC Rules</title>
-      <link>https://tntable.github.io/docs/uhc-rules/</link>
-      <pubDate>Mon, 20 Jul 2020 09:58:05 -0400</pubDate>
-      <guid>https://tntable.github.io/docs/uhc-rules/</guid>
-      <description>&lt;h2 id=&#34;uhc-requirements&#34;&gt;UHC Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Health does not regen naturally&lt;/li&gt;
-&lt;li&gt;Hardcore&lt;/li&gt;
-&lt;li&gt;Players start spread out around the map&lt;/li&gt;
-&lt;li&gt;Border to prevent players from going too far away&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;pack-specific-rules&#34;&gt;Pack-Specific Rules&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Regeneration is granted for 5 minutes after starting&lt;/li&gt;
-&lt;li&gt;The border sizing information can be found in the chat log&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;advancements&#34;&gt;Advancements&lt;/h2&gt;
-&lt;h2 id=&#34;death&#34;&gt;Death&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Frequently Asked Questions</title>
-      <link>https://tntable.github.io/docs/faq/</link>
-      <pubDate>Mon, 20 Jul 2020 09:55:43 -0400</pubDate>
-      <guid>https://tntable.github.io/docs/faq/</guid>
-      <description>&lt;p&gt;Tset faq&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Troubleshooting</title>
-      <link>https://tntable.github.io/docs/troubleshooting/</link>
-      <pubDate>Mon, 20 Jul 2020 09:56:03 -0400</pubDate>
-      <guid>https://tntable.github.io/docs/troubleshooting/</guid>
-      <description>&lt;h2 id=&#34;test&#34;&gt;Test&lt;/h2&gt;
-&lt;p&gt;Submit an issue ticket on Github. Read through the FAQ and this document first though.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

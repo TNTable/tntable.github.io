@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Frequently Asked Questions | TNTable UHC</title>
+    <title>FAQ | TNTable UHC</title>
     <link>https://tntable.github.io/docs/faq/</link>
       <atom:link href="https://tntable.github.io/docs/faq/index.xml" rel="self" type="application/rss+xml" />
-    <description>Frequently Asked Questions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 23:54:47 -0400</lastBuildDate>
+    <description>FAQ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 TNTable</copyright><lastBuildDate>Mon, 03 Aug 2020 15:58:34 -0400</lastBuildDate>
     <image>
       <url>https://tntable.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Frequently Asked Questions</title>
+      <title>FAQ</title>
       <link>https://tntable.github.io/docs/faq/</link>
     </image>
     
